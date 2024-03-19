@@ -15,9 +15,8 @@
 3. 커밋하기
 4. 푸시하기
 
-[영남이공대학교](http://www.unc.ac.kr)
+[영남이공대학교](http://www.ync.ac.kr)
 
-![프로필 이미지](./눈사람.jpg)
 <!--
 **JinsuBae2/JinsuBae2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

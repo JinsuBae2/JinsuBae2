@@ -1,5 +1,17 @@
-# Hi there 👋
+<div width="100%" align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=BAE%20JINSU&fontSize=90)
+  
+</div>
+
+
 <div align="center">
+
+### 🏫 Education
+
+영남이공대학교 소프트웨어콘텐츠계열 재학중 2023년 2월 ~ <br>
+
+  
 <h3 align="center">🌱 Skills </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" align="center">
@@ -12,7 +24,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" align="center"/>
 </p><br>
 
-<h3 align="center">📚 Studying</h3>
+<h3 align="center">✏️ Studying</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" align="center"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" align="center"/>
@@ -27,6 +39,7 @@
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=bjs7898)](https://solved.ac/bjs7898)
 
 </p>
+
 </div>
 <!--
 **JinsuBae2/JinsuBae2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

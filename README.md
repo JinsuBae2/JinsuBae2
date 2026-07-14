@@ -33,13 +33,6 @@
 </p>
 <br>
 
-<h3 align="center">💡 BOJ</h3>
-<p align="center">
-  
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=bjs7898)](https://solved.ac/bjs7898)
-
-</p>
-
 </div>
 <!--
 **JinsuBae2/JinsuBae2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

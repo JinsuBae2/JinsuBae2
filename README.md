@@ -1,14 +1,17 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:4158D0,50:C850C0,100:FFCC70&height=260&section=header&text=BAE%20JINSU&fontSize=68&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=1&animation=fadeIn&desc=Backend%20%7C%20Cloud%20%7C%20DevOps&descSize=18&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=BAE%20JINSU&fontSize=68&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20%C2%B7%20Cloud%20%C2%B7%20DevOps&descSize=19&descAlignY=58&animation=fadeIn)
 
 </div>
 
 ### 안녕하세요, 배진수입니다 👋
 
-새로운 기술을 배우고 직접 구현하며 성장하는 소프트웨어 개발자입니다.  
-협업과 꾸준한 학습을 중요하게 생각하며,  
-사용자에게 실질적인 가치를 제공하는 서비스를 만드는 것을 목표로 합니다.
+새로운 기술을 배우는 데 그치지 않고  
+직접 서비스를 구현하고 배포하는 과정까지 경험하며 성장하고 있습니다.
+
+**Spring Boot**를 중심으로 백엔드 개발 역량을 쌓고 있으며,  
+**AWS, Oracle Cloud, Docker, Nginx**를 활용한 인프라 구축과  
+서비스 배포 및 운영에도 관심이 있습니다.
 
 </div>
 
@@ -60,12 +63,30 @@
 
 ## 📚 Activities
 
-| 기간 | 활동 |
-|---|---|
-| 현재 | 영남이공대학교 소프트웨어융합과 재학 |
-| 현재 | 영남이공대학교 소프트웨어융합과 학회장 |
-| 26.6 ~ 26.8 | SW Pilot |
-| 26.6 ~ 26.9 | LG Aimers |
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🏫 Software Engineering</h3>
+      영남이공대학교<br>
+      소프트웨어융합과 재학
+    </td>
+    <td align="center" width="50%">
+      <h3>👥 Leadership</h3>
+      영남이공대학교<br>
+      소프트웨어융합과 학회장
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🚀 SW Pilot</h3>
+      SW Pilot 4기
+    </td>
+    <td align="center" width="50%">
+      <h3>🤖 LG Aimers</h3>
+      LG Aimers 9기
+    </td>
+  </tr>
+</table>
 
 ## 🎯 Goals
 
@@ -73,3 +94,21 @@
 - 협업을 통해 완성도 높은 서비스 만들기
 - 배운 내용을 프로젝트에 적용하고 기록하기
 - 사용자에게 도움이 되는 소프트웨어 개발하기
+
+## 📫 Contact
+
+<p align="center">
+  <a href="https://github.com/JinsuBae2">
+    <img src="https://img.shields.io/badge/GitHub-JinsuBae2-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+
+### Thanks for visiting! 👋
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=130&section=footer)
+
+</div>

@@ -19,10 +19,31 @@
 
 ## 📚 Activities
 
-- 🏫 영남이공대학교 소프트웨어융합과 재학
-- 👥 영남이공대학교 소프트웨어융합과 학회장
-- 🚀 SW Pilot 4기
-- 🤖 LG Aimers 9기
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🏫 Software Engineering</h3>
+      영남이공대학교<br>
+      소프트웨어융합과 재학
+    </td>
+    <td align="center" width="50%">
+      <h3>👥 Leadership</h3>
+      영남이공대학교<br>
+      소프트웨어융합과 학회장
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🚀 SW Pilot</h3>
+      SW Pilot 4기
+    </td>
+    <td align="center" width="50%">
+      <h3>🤖 LG Aimers</h3>
+      LG Aimers 9기
+    </td>
+  </tr>
+</table>
+
 - 🌱 웹 개발과 소프트웨어 개발 역량을 꾸준히 학습하고 있습니다.
 - 💡 아이디어를 실제 서비스로 구현하는 과정에 관심이 많습니다.
 
@@ -60,33 +81,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
-
-## 📚 Activities
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🏫 Software Engineering</h3>
-      영남이공대학교<br>
-      소프트웨어융합과 재학
-    </td>
-    <td align="center" width="50%">
-      <h3>👥 Leadership</h3>
-      영남이공대학교<br>
-      소프트웨어융합과 학회장
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🚀 SW Pilot</h3>
-      SW Pilot 4기
-    </td>
-    <td align="center" width="50%">
-      <h3>🤖 LG Aimers</h3>
-      LG Aimers 9기
-    </td>
-  </tr>
-</table>
 
 ## 🎯 Goals
 

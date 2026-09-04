@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
 ### Frameworks & Libraries
@@ -74,13 +73,3 @@
 - 협업을 통해 완성도 높은 서비스 만들기
 - 배운 내용을 프로젝트에 적용하고 기록하기
 - 사용자에게 도움이 되는 소프트웨어 개발하기
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JinsuBae2&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JinsuBae2&layout=compact&theme=transparent&hide_border=true)
-
-</div>

@@ -1,9 +1,3 @@
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=BAE%20JINSU&fontSize=68&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20%C2%B7%20Cloud%20%C2%B7%20DevOps&descSize=19&descAlignY=58&animation=fadeIn)
-
-</div>
-
 ### 안녕하세요, 배진수입니다 👋
 
 새로운 기술을 배우는 데 그치지 않고  
@@ -102,7 +96,5 @@
 <div align="center">
 
 ### Thanks for visiting! 👋
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=130&section=footer)
 
 </div>

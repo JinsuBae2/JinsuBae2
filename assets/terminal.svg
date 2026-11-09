@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">Jinsu Bae — Backend Developer</title>
+  <desc id="desc">A terminal profile for Jinsu Bae. Spring Boot at the core. From API to deployment. Learn, build, ship, repeat.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#9DE0AD" stroke-opacity=".035"/>
+    </pattern>
+    <clipPath id="typing-clip"><rect class="typing" x="48" y="390" width="950" height="44"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: Menlo, Consolas, "Liberation Mono", monospace; }
+    .typing { animation: type 1.65s steps(42, end) .35s both; }
+    .cursor { animation: blink 1s step-end 5; }
+    @keyframes type { from { width: 0; } to { width: 950px; } }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .typing, .cursor { animation: none; } }
+  </style>
+  <rect x="1" y="1" width="1198" height="518" rx="18" fill="#101719" stroke="#334448" stroke-width="2"/>
+  <path d="M19 2H1181Q1198 2 1198 19V59H2V19Q2 2 19 2Z" fill="#1D292C"/>
+  <path d="M2 59H1198" stroke="#334448"/>
+  <circle cx="31" cy="31" r="7" fill="#DF7D76"/>
+  <circle cx="55" cy="31" r="7" fill="#F2C079"/>
+  <circle cx="79" cy="31" r="7" fill="#9DE0AD"/>
+  <text x="600" y="38" text-anchor="middle" font-size="17" fill="#B0C0BA">jinsu@github: ~/workspace</text>
+  <text x="1154" y="38" text-anchor="end" font-size="14" fill="#B0C0BA">zsh</text>
+  <rect x="2" y="60" width="1196" height="397" fill="url(#grid)"/>
+  <text x="48" y="111" font-size="23" fill="#9DE0AD">❯ <tspan fill="#E8F0EA">whoami</tspan></text>
+  <text x="44" y="213" font-size="91" font-weight="700" letter-spacing="-5" fill="#E8F0EA">Jinsu Bae<tspan fill="#9DE0AD">_</tspan></text>
+  <text x="50" y="260" font-size="26" fill="#F2C079">Backend developer</text>
+  <text x="50" y="301" font-size="21" fill="#B0C0BA">Spring Boot at the core. From API to deployment.</text>
+  <g transform="translate(840 106)" font-size="19">
+    <text x="0" y="0" fill="#8FA49B">~/what-i-build</text>
+    <path d="M8 24V179M8 48H32M8 91H32M8 134H32M8 177H32" fill="none" stroke="#496256" stroke-width="2"/>
+    <text x="46" y="54" fill="#9DE0AD">backend/</text>
+    <text x="46" y="97" fill="#E8F0EA">cloud/</text>
+    <text x="46" y="140" fill="#E8F0EA">products/</text>
+    <text x="46" y="183" fill="#F2C079">experiments/</text>
+  </g>
+  <path d="M48 350H1152" stroke="#334448"/>
+  <g clip-path="url(#typing-clip)">
+    <text x="48" y="420" font-size="24" fill="#9DE0AD">❯ <tspan fill="#E8F0EA">./journey</tspan><tspan dx="14.4" fill="#F2C079">--learn --build --ship --repeat</tspan></text>
+  </g>
+  <rect class="cursor" x="675" y="397" width="13" height="28" rx="1" fill="#9DE0AD"/>
+  <path d="M2 458H1198" stroke="#334448"/>
+  <path d="M2 459H180V518H19Q2 518 2 501Z" fill="#9DE0AD"/>
+  <text x="91" y="495" text-anchor="middle" font-size="20" font-weight="700" fill="#101719">JinsuBae2</text>
+  <text x="210" y="495" font-size="18" fill="#B0C0BA">main</text>
+  <text x="1150" y="495" text-anchor="end" font-size="18" fill="#B0C0BA">Java / Spring / Cloud</text>
+</svg>
